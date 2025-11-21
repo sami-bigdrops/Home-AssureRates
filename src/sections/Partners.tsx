@@ -17,7 +17,7 @@ const partner = [
     },
     {
         name: 'Progressive',
-        image: '/partner-4.svg'
+        image: '/progressive.svg'
     },
     {
         name: 'Liberty Mutual',
