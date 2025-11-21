@@ -84,7 +84,7 @@ const Hero = () => {
     const baseUrl = 'https://homequote.assurerates.com'
     const params = new URLSearchParams({
       zip_code: zipCode,
-      referrer: 'autoquote.assurerates.com',
+      referrer: 'homequotes.assurerates.com',
       tid: '3108'
     })
 
