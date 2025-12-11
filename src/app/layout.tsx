@@ -15,13 +15,13 @@ const mulish = Mulish({
 
 export const metadata: Metadata = {
   title: "Home Insurance Quotes Free and Fast | AssureRates",
-  description: "Get free and fast Home insurance quotes from top insurance companies in Nigeria. Compare prices and save money on your home insurance.",
-  keywords: "home insurance, insurance quotes, Nigeria, fast quotes, compare insurance",
+  description: "Get free and fast Home insurance quotes from top insurance companies in the United States. Compare prices and save money on your home insurance.",
+  keywords: "home insurance, insurance quotes, the United States, fast quotes, compare insurance",
   authors: [{ name: "AssureRates" }],
   robots: "index, follow",
   openGraph: {
     title: "Home Insurance Quotes Free and Fast | AssureRates",
-    description: "Get free and fast home insurance quotes from top insurance companies in Nigeria. Compare prices and save money on your home insurance.",
+    description: "Get free and fast home insurance quotes from top insurance companies in the United States. Compare prices and save money on your home insurance.",
     type: "website",
     locale: "en_US",
   },
